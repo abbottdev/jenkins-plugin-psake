@@ -1,0 +1,4 @@
+Requires the pwsh plugin be enabled and the `Invoke-psake` powershell module is installed.
+
+Default values for label = target
+Default value for psakeFile = psakeFile.ps1
